@@ -1,7 +1,7 @@
 import type { ComponentProps } from "react";
 
 const timeSelectVariants = {
-  style: "w-20 py-2 flex place-content-center border rounded-lg transition",
+  style: "min-w-20 py-2 flex place-content-center border rounded-lg transition",
   variant: {
     default: "cursor-pointer bg-gray-600 border-gray-500 hover:bg-gray-500",
     selected: "cursor-pointer bg-gray-600 border-yellow hover:bg-gray-500",

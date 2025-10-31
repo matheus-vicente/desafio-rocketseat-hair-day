@@ -7,7 +7,7 @@ export const textVariants = {
     "text-md": "text-md/6 text-gray-200",
     "title-sm": "text-sm/5 text-gray-300 font-bold",
     "title-md": "text-md/6 text-gray-200 font-bold",
-    "title-lg": "text-[32px]/8 text-gray-100 font-bold",
+    "title-lg": "text-[24px]/8 text-gray-100 font-bold",
   },
 };
 
