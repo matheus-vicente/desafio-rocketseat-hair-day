@@ -30,6 +30,7 @@ export function DatePicker({ className, ...props }: DatePickerType) {
 
   return (
     <button
+      type="button"
       className={`
         ${datePickerVariants.style}
         ${className ? className : ""}
